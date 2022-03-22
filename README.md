@@ -1,2 +1,2 @@
 # HTLM-Games
-Just some random HTLM games
+Just some random HTML games that i got from https://scratch.mit.edu/
